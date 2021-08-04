@@ -6,6 +6,7 @@
 [<img height="40" src="docs/assests/images/VK.svg">][VK]
 [<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
 
+## Languages I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trard&layout=compact&theme=nord)](https://github.com/Trard?tab=repositories)
 
 [VK]: https://vk.com/trard
