@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi there 👋, I`m Eduard - aka Trard
 
 ## 📈 Activity and stats
@@ -13,7 +15,6 @@
 4. 🎉 Merged PR [#47](https://github.com/hoppscotch/hopp-doc-gen/pull/47) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 5. 🎉 Merged PR [#52](https://github.com/hoppscotch/hopp-doc-gen/pull/52) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 <!--END_SECTION:activity-->
-</details>
 
 ## 📫 Contacts
 [<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
@@ -24,3 +25,5 @@
 
 [Telegram]: https://t.me/trard
 [VK]: https://vk.com/trard
+
+</div>
