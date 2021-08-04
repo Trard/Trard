@@ -6,7 +6,7 @@
 [<img height="40" src="docs/assests/images/VK.svg">][VK]
 [<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trard&layout=compact)](https://github.com/Trard?tab=repositories)
 
 [VK]: https://vk.com/trard
 [Telegram]: https://t.me/trard
