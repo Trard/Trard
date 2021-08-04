@@ -1,10 +1,10 @@
 ### Hi there 👋, I`m Eduard - aka Trard
 
-## Activity
+## 📈 Activity and stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trard&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#2](https://github.com/cry22crystal/emstatus/issues/2) in [cry22crystal/emstatus](https://github.com/cry22crystal/emstatus)
@@ -15,11 +15,11 @@
 <!--END_SECTION:activity-->
 </details>
 
-## Contacts
+## 📫 Contacts
 [<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
 [<img height="40" src="docs/assests/images/VK.svg">][VK]
 
-## Languages I use
+## 🛠️ Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trard&layout=compact&theme=nord)](https://github.com/Trard?tab=repositories)
 
 [Telegram]: https://t.me/trard
