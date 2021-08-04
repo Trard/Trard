@@ -1,5 +1,3 @@
-<div align="center">
-  
 ### Hi there 👋, I`m Eduard - aka Trard
 
 ## 📈 Activity and stats
@@ -25,5 +23,4 @@
 
 [Telegram]: https://t.me/trard
 [VK]: https://vk.com/trard
-
-</div>
+  
