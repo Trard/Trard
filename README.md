@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trard&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-## Socials
+## Contacts
 [<img height="32" width="32" src="https://vk.com/favicon.ico" />][VK]
 [<img height="32" width="32" src="https://telegram.org/favicon.ico" />][Telegram]
 
