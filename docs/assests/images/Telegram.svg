@@ -6,7 +6,7 @@
           transform: rotateZ(-360deg);
         }
       }
-      .airplane:hover {
+      .airplane {
         animation-duration: 1s;
         animation-name: fly;
       }
