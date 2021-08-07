@@ -2,7 +2,7 @@
 
 ## 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trard&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trard&show_icons=true&disable_animations&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contacts
 [<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
