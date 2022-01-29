@@ -1,4 +1,4 @@
-### Hi there 👋, I`m Eduard - aka Trard
+### Hi there 👋, I\`m Eduard aka Trard
 
 ## 📈 Stats
 
