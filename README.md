@@ -1,12 +1,11 @@
 ### Hi there 👋, I\`m Eduard aka Trard
 
+## 📫 Contact with me
+[<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
+
 ## 📈 Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trard&show_icons=true&disable_animations=1&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contacts
-[<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
-[<img height="40" src="docs/assests/images/VK.svg">][VK]
 
 [//]:  https://github.com/sindresorhus/css-in-readme-like-wat
 
