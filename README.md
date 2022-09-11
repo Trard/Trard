@@ -1,6 +1,6 @@
 ### Hi there 👋, I\`m Eduard aka Trard
 
-## 📫 Contact with me
-[<img height="40" src="docs/assests/images/Telegram.svg">][Telegram]
+## 📫 [<img height="25em" src="docs/assests/images/Telegram.svg">][Telegram] Contact with me
+
 
 [Telegram]: https://t.me/trard
