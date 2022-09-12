@@ -1,5 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
 ### Hi there 👋, I\`m Eduard aka Trard
 
 I'm Rust and JavaScript developer.
