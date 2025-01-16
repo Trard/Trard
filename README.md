@@ -1,6 +1,6 @@
 ### Hi there 👋, I\`m Eduard aka Trard
 
-I'm Rust and JavaScript developer.
+I'm Rust, JavaScript and Kotlin developer.
 
 <div>
     <h2>
